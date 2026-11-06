@@ -1,23 +1,22 @@
-# Skeleton Typing Game
+# Bone Type · Skeleton & Muscles
 
-Interactive 3D anatomy typing game for learning major bone names.
+Interactive 3D anatomy typing game. Learn major bones **and** muscles by typing them.
 
 ## Features
-- Procedural 3D skeleton rendered with Three.js
-- 3 progressive rounds:
-  1. **Type it** — full name shown
-  2. **Hints** — first letter + meaning
-  3. **From memory** — no hints, camera from behind
-- WPM, accuracy, and progress tracking
+- Procedural 3D skeleton + muscles (Three.js)
+- Subject switch: Bones / Muscles
+- Regions filter (skull, spine, thorax, arm, hand, leg, foot / neck, trunk, etc.)
+- Modes: Learn (all levels) · See it · Hint · Memory
+- Sound effects (thock / pop / off)
 - Theme toggle (dusk / night)
-- Drag to rotate, scroll to zoom, Tab to reveal
+- Mobile-friendly (on-screen keyboard + native input)
+- WPM, accuracy, perfects, reveals, session summary
 
-## Run locally
-Just open `index.html` in a modern browser. No build step required.
+## Run
+Open `index.html` in a modern browser. No build step.
 
 ## Live demo
-Once GitHub Pages is enabled, it will be available at:
+Enable GitHub Pages (Settings → Pages → main / root):
 https://yestin-boop.github.io/skeleton-typing-game/
 
-## Bones covered
-Skull, mandible, spine, ribs, sternum, clavicle, scapula, humerus, radius, ulna, pelvis, sacrum, femur, patella, tibia, fibula.
+Repo: https://github.com/yestin-boop/skeleton-typing-game
